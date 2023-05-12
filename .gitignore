@@ -1,3 +1,5 @@
 config/settings.json
+config/settings_*.json
+test.py
 .DS_Store
 .env
