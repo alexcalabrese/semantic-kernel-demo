@@ -1,7 +1,7 @@
-# Experimental: Semantic Kernel Recipes
+# Semantic Kernel Demo
 
-There's now a free LinkedIn Learning course on Semantic Kernel available [here](https://aka.ms/sk/li/introducing-semantic-kernel). And a new course on building skills [here](https://aka.ms/sk/li/building-skills). 
----
+<!-- There's now a free LinkedIn Learning course on Semantic Kernel available [here](https://aka.ms/sk/li/introducing-semantic-kernel). And a new course on building skills [here](https://aka.ms/sk/li/building-skills). 
+--- -->
 
 ## 📺 Available SK Recipes
 
@@ -9,15 +9,14 @@ This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run l
 
 * ⏲️ [The Kitchen](e1-kitchen-entrance/notebook.ipynb)
 * 🍽️ [First Dish](e2-first-dish/notebook.ipynb)
-* 🧂 [Skills Rack](e3-skills-rack/notebook.ipynb)
-* 🥑 [Memories Maximized](e4-memories/notebook.ipynb)
-* 🍋 [Connectors w/ Bing](e5-connectors/notebook.ipynb)
-* 🔥 [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
+* 🛢️ [Skills](e3-skills-rack/notebook.ipynb)
+* 🍝 [Memories](e4-memories/notebook.ipynb)
+* 🧄 [Connectors w/ Bing](e5-connectors/notebook.ipynb)
+<!-- * 🔥 [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
 * 💬 [MiniChatGPT Clone](e7-bonus-chat/notebook.ipynb)
-* 🕵️ [Prompt Secrets](e8-bonus-prompts/notebook.ipynb)
+* 🕵️ [Prompt Secrets](e8-bonus-prompts/notebook.ipynb) -->
 
 ---
-
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
 
